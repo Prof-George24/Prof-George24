@@ -1,16 +1,15 @@
-### Hi there 👋
+### Fala Galera 🤩
 
-<!--
-**Prof-George24/Prof-George24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Prof George
+- Tenho excelentes alunos
+- Estou estudando na ALURA
+- Estou me desenvovendo na linguagem JavaScript
 
-Here are some ideas to get you started:
+  ### Entre em contato 📧
+  
+  andregeorge@prof.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/6mGzN-Viv1cAAAAM/basketball-cobra-hehe.gif)
+    
+
+  
